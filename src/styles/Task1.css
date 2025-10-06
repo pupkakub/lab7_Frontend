@@ -1,0 +1,28 @@
+.task1-page
+{
+    height: calc(100vh-8px); 
+    font-family: Times New Roman;
+    margin: 8px;
+}
+.alt-style-1 {
+  background-color: #271daf;
+  color: #fff;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.alt-style-2 {
+  background-color: #4ae679;
+  color: #272b5e;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.btn-container {
+  display: flex;       
+  gap: 4.3px;      
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+}
