@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lab7_Frontend/static/css/main.eec7428c.css",
+    "main.js": "/lab7_Frontend/static/js/main.6e0da4f6.js",
+    "static/js/453.8d1e25af.chunk.js": "/lab7_Frontend/static/js/453.8d1e25af.chunk.js",
+    "static/media/vyzhnycya.jpg": "/lab7_Frontend/static/media/vyzhnycya.26802fedcaaf1bd437f2.jpg",
+    "static/media/Soul_of_Nature_990.jpeg": "/lab7_Frontend/static/media/Soul_of_Nature_990.64321ab0e9ef0602e148.jpeg",
+    "static/media/Dolphins_990.jpg": "/lab7_Frontend/static/media/Dolphins_990.b2ffbddb8a8097a96a5f.jpg",
+    "static/media/Hurrem_1160.jpg": "/lab7_Frontend/static/media/Hurrem_1160.1a2a6d19c1537a3d7716.jpg",
+    "static/media/tender_720.jpg": "/lab7_Frontend/static/media/tender_720.9d658833cb4208c7b977.jpg",
+    "static/media/back.gif": "/lab7_Frontend/static/media/back.6edf9597f34de252a345.gif",
+    "static/media/Vintage_Tulip_1090.jpg": "/lab7_Frontend/static/media/Vintage_Tulip_1090.a2bcb4275757131af079.jpg",
+    "static/media/Blue_Cristal_890.jpg": "/lab7_Frontend/static/media/Blue_Cristal_890.90722f789bb345b4c8b5.jpg",
+    "index.html": "/lab7_Frontend/index.html",
+    "main.eec7428c.css.map": "/lab7_Frontend/static/css/main.eec7428c.css.map",
+    "main.6e0da4f6.js.map": "/lab7_Frontend/static/js/main.6e0da4f6.js.map",
+    "453.8d1e25af.chunk.js.map": "/lab7_Frontend/static/js/453.8d1e25af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec7428c.css",
+    "static/js/main.6e0da4f6.js"
+  ]
+}
