@@ -2,11 +2,10 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Task1Page from './pages/Task1Page';
 import Task2Page from './pages/Task2Page';
-import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/lab7_Frontend">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/task1" element={<Task1Page />} />

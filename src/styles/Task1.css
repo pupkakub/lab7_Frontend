@@ -1,6 +1,7 @@
 .task1-page
 {
-    height: calc(100vh-8px); 
+    min-height: calc(100vh-8px); 
+    box-sizing: border-box;
     font-family: Times New Roman;
     margin: 8px;
 }
